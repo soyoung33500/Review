@@ -1,4 +1,4 @@
-# review
+# 데이터마이닝개론 - 로지스틱 회귀분석을 활용한 리뷰 감정 분석 및 키워드 추출
 
 ![슬라이드1](https://github.com/user-attachments/assets/3d27ccdb-d730-491a-bd9b-98e2a4627054)
 ![슬라이드2](https://github.com/user-attachments/assets/eda78b69-60f2-414e-8a4b-b578d7b631eb)
